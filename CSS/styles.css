@@ -18,3 +18,19 @@ a{
 a:hover{
     color:#F48484;
 }
+.textarea
+{
+    background-color:#FFF6C3;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #1C315E;
+}
+.design{
+    height:80px;
+    width:80px;
+    border:SOLID 3px ;
+}
+.design:hover{
+    height: 150px;
+    width: 150px;
+}
